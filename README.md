@@ -1,2 +1,2 @@
-# wdasdasda
-adasdas
+N = int(input())
+print(N)
